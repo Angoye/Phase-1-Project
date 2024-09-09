@@ -36,7 +36,8 @@ It includes aviation accident data from 1962 to 2023 about civil aviation accide
 # Data Analysis
 The figure below shows the accident trends over the years. This is to give you a perspective of how the trends of accidents on whether they have increased or decrease overtime. As a business owner you don't need to venture into a high increase risk business. 
 # Table 1
-![image]("C:\Users\hp\Pictures\Aircraft by Accident Percentage.png")
+
+![Accidents trends over time](https://github.com/Angoye/Phase-1-Project/blob/main/Accidents%20trends%20over%20time.png)
 
 # Table 2
 The table below shows top ten Riskiest Aircrafts by Accident Percentage. This is to provide an indication of what type of planes to be cautious about while making a business decision.
