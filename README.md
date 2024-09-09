@@ -42,9 +42,7 @@ The figure below shows the accident trends over the years. This is to give you a
 # Table 2
 The table below shows top ten Riskiest Aircrafts by Accident Percentage. This is to provide an indication of what type of planes to be cautious about while making a business decision.
 
-![Alt text](https://github.com/user-attachments/assets/bbf8e60b-a1bd-4cb8-ad7a-f78629535b53)
-
-
+![Low risk aircraft](https://github.com/Angoye/Phase-1-Project/blob/main/Low%20risk%20aircraft.png)
 
 # Conclusion
 Based on the analysis,
